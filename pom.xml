@@ -88,12 +88,8 @@
 
     <repositories>
         <repository>
-            <id>sonatype-releases</id>
-            <url>http://oss.sonatype.org/content/repositories/releases/</url>
-        </repository>
-        <repository>
-            <id>sonatype-snapshots</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+            <id>mereleases</id>
+            <url>http://120.25.165.91:10081/repository/maven-public/</url>
         </repository>
     </repositories>
 </project>
